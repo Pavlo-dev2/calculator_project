@@ -8,5 +8,5 @@ Problem with (2+(3/3))-2:
     Enter your expression: (2+(3/3))-2
     Result: 3.000000
 not:
-Enter your expression: (2+(3/3))-2
-Result: 1.000000
+    Enter your expression: (2+(3/3))-2
+    Result: 1.000000
