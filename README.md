@@ -9,14 +9,11 @@ and run:
 
 Example:
 
-root@Mobile1516T:/home# ./a.out
-Enter your expression: (((3.14*3^2) * 5)/3) + (((3.14*3^2) * 5)/3)
+root@Mobile1516T:/home# ./a.out "(((3.14*3^2) * 5)/3) + (((3.14*3^2) * 5)/3)"
 Result: 94.199997
 
-#root@Mobile1516T:/home# ./a.out
-Enter your expression: 2-3
+#root@Mobile1516T:/home# ./a.out 2-3
 Result: -1.000000
 
-root@Mobile1516T:/home# ./a.out
-Enter your expression: (2+2)*(3+3)
+root@Mobile1516T:/home# ./a.out "(2+2)*(3+3)"
 Result: 24.000000
