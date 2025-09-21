@@ -6,14 +6,12 @@ Parentheses and operator precedence
 Floating-point calculations
 Recursive parsing of expressions
 
-Installation & Usage:
-
-download the last version of C file, compile it with:
-cc _name_of_the_file -lm
-copy a.out file to /bin with cp a.out /bin/calculate
+Installation:
+1. Download the last version of C file
+2. Compile it with cc _name_of_the_file -lm
+3. Copy a.out file to /bin with cp a.out /bin/calculate
 
 Example:
-
 root@Mobile1516T:/home# calculate "(((3.14 * 3^2) * 5)/3) + (((3.14 * 3^2) * 5)/3)"
 Result: 94.200005
 
