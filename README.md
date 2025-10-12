@@ -8,10 +8,12 @@
 <li>Recursive parsing of expressions</li>
 </ul>
 
-Installation:
-1. Download the last version of C file
-2. Compile it with cc _name_of_the_file -lm
-3. Copy a.out file to /bin with cp a.out /bin/calculate
+<h2>Installation:</h2>
+<h3>
+1. Download the last version of C file<br>
+2. Compile it with cc _name_of_the_file -lm<br>
+3. Copy a.out file to /bin with cp a.out /bin/calculate<br>
+</h3>
 
 Example:
 
