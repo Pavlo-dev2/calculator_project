@@ -1,10 +1,12 @@
 # calculator_project
-This is a CLI calculator implemented in C, supporting:
 
-Arithmetic operations (+, -, *, /, ^)
-Parentheses and operator precedence
-Floating-point calculations
-Recursive parsing of expressions
+<h2>This is a CLI calculator implemented in C, supporting:</h2>
+<ul>
+<li>Arithmetic operations (+, -, *, /, ^)</li>
+<li>Parentheses and operator precedence</li>
+<li>Floating-point calculations</li>
+<li>Recursive parsing of expressions</li>
+</ul>
 
 Installation:
 1. Download the last version of C file
